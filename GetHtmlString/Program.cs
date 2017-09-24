@@ -1,6 +1,7 @@
 ﻿/* 
  * Quick'n'dirty HTML parsing to find prices on a webpage  
- * Thanks https://gist.github.com/HockeyJustin for overengineering the timer stuff
+ * Thanks https://gist.github.com/HockeyJustin for overengineering the timer stuff,
+ * see https://gist.github.com/HockeyJustin/1161699bd26adb5c054d for original timer console
  * */
 
 using System;
